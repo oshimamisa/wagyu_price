@@ -30,6 +30,9 @@ p {
 }
 
 @media screen and (min-width:576px) {
+  .wagyu-back-color {
+    background-color: #FFA500;
+  }
   .row {
     margin-bottom: 30px;
   }
